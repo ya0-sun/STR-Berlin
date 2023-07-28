@@ -10,4 +10,4 @@ Sun, Y., Kruspe A., Meng L., Tian, Y., Hoffmann, E.J., Auer, S., Zhu, X. (2023).
   year={2023}
 }
 
-Filtered STR results can be found at 
+Filtered STR results can be found at https://terabox.com/s/1yKtj33ww7om25U588HiOqQ
