@@ -7,6 +7,7 @@ Sun, Y., Kruspe A., Meng L., Tian, Y., Hoffmann, E.J., Auer, S., Zhu, X. (2023).
 Filtered STR results can be found at https://terabox.com/s/1yKtj33ww7om25U588HiOqQ
 
 ## Citation
+If you find they are useful, please kindly cite the following:
 ~~~
 @article{sun2023strflickr,
   title={Towards Large-scale Building Attribute Mapping using Crowdsourced Images: Scene Text Recognition on Flickr and Problems to be Solved},
